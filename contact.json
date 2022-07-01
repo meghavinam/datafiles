@@ -1,0 +1,38 @@
+{
+    "Seo": {
+        "title": "Contact Us | Digital Marketing Agency  | Dubai, UAE",
+        "description": "Feel free to contact Vybinex for any enquiries related to Digital Marketing, Web Development, Influencer Marketing, Commercial  Photography, Commercial  Videography, Brand Content, Dubai, UAE"
+    },
+    "heading": "Connect With Us Today & Grow High",
+    "headingHighlights": [
+        "Grow",
+        "High"
+    ],
+    "subHeading": "Your marketing superhero that takes your brand to a new high",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.6051212978696!2d55.33762021501058!3d25.250221783871616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d93bda7eb33%3A0x9273d4539d6071ad!2sVybinex%20Digital%20Solutions!5e0!3m2!1sen!2sin!4v1648181470567!5m2!1sen!2sin",
+    "address": [
+        {
+            "address": "Al Durrah No.4, SBK Real Estate Near GGICO Metro Station, Garhoud - Dubai - United Arab Emirates.",
+            "order": 0
+        }
+    ],
+    "mail": [
+        {
+            "email": "info@vybinex.com",
+            "route": "mailto:info@vybinex.com",
+            "order": 0
+        }
+    ],
+    "phone": [
+        {
+            "phone": "+971 56 314 2421",
+            "route": "tel:+971 56 314 2421",
+            "order": 0
+        },
+        {
+            "phone": "+971 56 813 2972",
+            "route": "tel:+971 56 813 2972",
+            "order": 1
+        }
+    ]
+}

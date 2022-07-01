@@ -1,0 +1,46 @@
+{
+    "links": [
+        {
+            "title": "Home",
+            "route": "/",
+            "order": 0,
+            "header": true
+        },
+        {
+            "title": "About",
+            "route": "/about/",
+            "order": 1,
+            "header": true
+        },
+        {
+            "title": "Services",
+            "route": "",
+            "order": 2,
+            "header": true
+        },
+        {
+            "title": "Portfolio",
+            "route": "/portfolio/",
+            "order": 3,
+            "header": true
+        },
+        {
+            "title": "Pricing",
+            "route": "/pricing/",
+            "order": 5,
+            "header": true
+        },
+        {
+            "title": "Contact Us",
+            "route": "/contact/",
+            "order": 6,
+            "header": true
+        },
+        {
+            "title": "Free Marketing Training",
+            "route": "/marketing-audit/",
+            "order": 4,
+            "header": true
+        }
+    ]
+}

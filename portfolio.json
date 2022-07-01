@@ -1,0 +1,100 @@
+{
+    "Seo": {
+        "title": "Digital Marketing Portfolio | Vybinex Dubai",
+        "description": "Take a tour of our portfolio. It contains all of the projects that we've worked on. Social media marketing, Web development, Influencer marketing, Photography, Videography and Brand content."
+    },
+    "heading": "Checkout Some of Our Super-Work",
+    "headingHighlights": [
+        "Super-Work"
+    ],
+    "subHeading": "Our clients have trusted us for our out of box ideas and innovative concepts. Check out some of them.",
+    "linkPrefix": "portfolio",
+    "links": [
+        {
+            "id": "taqat-wa-tashyid-branding",
+            "videos": [],
+            "Seo": {
+                "title": "Portfolio | Taqat Wa Tashyid | Vybinex Digital Solutions",
+                "description": ""
+            },
+            "title": "Taqat Wa Tashyid",
+            "slug": "taqat-wa-tashyid-branding",
+            "date": "",
+            "serviceId": "branding",
+            "order": 16,
+            "serviceOrder": 0,
+            "projectUrl": "",
+            "description": "We did re-branding for the client for a fresh and modern look that help establish market presence and builds corporate credibility for the brand.",
+            "client": "Taqat Wa Tashyid",
+            "tags": []
+        },
+        {
+            "id": "ultima-branding",
+            "videos": [],
+            "Seo": {
+                "title": "Portfolio | Ultima | Vybinex Digital Solutions",
+                "description": ""
+            },
+            "title": "Ultima",
+            "slug": "ultima-branding",
+            "date": "",
+            "serviceId": "branding",
+            "order": 17,
+            "serviceOrder": 1,
+            "projectUrl": "",
+            "description": "We designed thier logo, posters and roll-ups to acknowledge potiential customers about the brand recall",
+            "client": "Ultima",
+            "tags": []
+        },
+        {
+            "id": "falak-store-branding",
+            "videos": [],
+            "Seo": {
+                "title": "Portfolio | Falak Store | Vybinex Digital Solutions",
+                "description": ""
+            },
+            "title": "Falak Store",
+            "slug": "falak-store-branding",
+            "date": "",
+            "serviceId": "branding",
+            "order": 18,
+            "serviceOrder": 2,
+            "projectUrl": "",
+            "description": "We designed their logo to reach out to the audience and to bring out the creative look that met the expectation of the client.",
+            "client": "Falak Store",
+            "tags": []
+        }
+    ],
+    "videos": [
+        {
+            "id": "powerboom-cinematography",
+            "url": "https://youtube.com/embed/vq63m6aenkY",
+            "serviceId": "video",
+            "thumbnailImage": "https://img.youtube.com/vi/vq63m6aenkY/0.jpg"
+        },
+        {
+            "id": "apparels-cinematography",
+            "url": "https://youtube.com/embed/1zA1trOSeJ8",
+            "serviceId": "video",
+            "thumbnailImage": "https://img.youtube.com/vi/1zA1trOSeJ8/0.jpg"
+        },
+        {
+            "id": "max-fashion-cinematography",
+            "url": "https://youtube.com/embed/NWyZIxYCOwg",
+            "serviceId": "video",
+            "thumbnailImage": "https://img.youtube.com/vi/NWyZIxYCOwg/0.jpg"
+        },
+        {
+            "id": "granada-cinematography",
+            "url": "https://youtube.com/embed/6AaJKDPKhTE",
+            "serviceId": "video",
+            "thumbnailImage": "https://img.youtube.com/vi/6AaJKDPKhTE/0.jpg"
+        },
+        {
+            "id": "richway-cinematography",
+            "url": "https://youtube.com/embed/5cOAMK8ZwLk",
+            "serviceId": "video",
+            "thumbnailImage": "https://img.youtube.com/vi/5cOAMK8ZwLk/0.jpg"
+        }
+    ]
+}

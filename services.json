@@ -1,0 +1,1436 @@
+{
+    "Seo": {
+        "title": "Services | Vybinex Digital Solutions",
+        "description": ""
+    },
+    "heading": "Our Services",
+    "headingHighlights": [
+        "Services"
+    ],
+    "subHeading": "Pleasure rationally encounter consequences are extremely painful great oppurtunity",
+    "linkPrefix": "",
+    "links": [
+        {
+            "id": "marketing-training",
+            "Seo": {
+                "title": "Marketing Training in Dubai",
+                "description": "Vybinex Digital Solutions offers tailored in-Company marketing training programs in Dubai. Call us and get your employees the training they need to learn & lead."
+            },
+            "title": "Marketing Training",
+            "shortTitle": "Marketing Training",
+            "titleHighlights": [
+                "Marketing",
+                "Training"
+            ],
+            "highlights": [],
+            "slug": "marketing-training",
+            "excerpt": "Get professional marketing training and save your marketing budget",
+            "shortDescription": "We promise to take your brand to the desired audience through the social media handles, forming a strong community of like-minded people. We take charge of your brand’s presence on multiple social media handles. We bring uniformity in each social channel empowering the brand’s identity. We push organic traffic through social media content and give nudges to convert them into customers",
+            "order": 0,
+            "pricingSections": [
+                {
+                    "id": "marketing-training",
+                    "pricingSectionHeading": "Marketing Training",
+                    "pricingSectionHeadingHighlights": [],
+                    "pricingSectionSubHeading": "",
+                    "detailPagePricingTitle": "Our Marketing Training Plans",
+                    "detailPagePricingTitleHighlights": [
+                        "Marketing",
+                        "Training"
+                    ],
+                    "pricingPacks": [
+                        {
+                            "id": "basic",
+                            "packName": "Basic",
+                            "packValue": 999,
+                            "packDescription": "",
+                            "features": [
+                                {
+                                    "id": 1,
+                                    "feature": "Video Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Infographic Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Influencer Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Case Study Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Testimonial Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 6,
+                                    "feature": "Memes Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 7,
+                                    "feature": "Blogs Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 8,
+                                    "feature": "Lead Magnets",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 9,
+                                    "feature": "Paid ADs",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 10,
+                                    "feature": "Content Strategy",
+                                    "subFeatures": [],
+                                    "opted": false
+                                },
+                                {
+                                    "id": 11,
+                                    "feature": "Content Development",
+                                    "subFeatures": [],
+                                    "opted": false
+                                },
+                                {
+                                    "id": 12,
+                                    "feature": "Content Distribution",
+                                    "subFeatures": [],
+                                    "opted": false
+                                }
+                            ]
+                        },
+                        {
+                            "id": "standard",
+                            "packName": "Standard",
+                            "packValue": 5000,
+                            "packDescription": "",
+                            "features": [
+                                {
+                                    "id": 1,
+                                    "feature": "Video Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Infographic Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Influencer Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Case Study Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Testimonial Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 6,
+                                    "feature": "Memes Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 7,
+                                    "feature": "Blogs Marketing",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 8,
+                                    "feature": "Lead Magnets",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 9,
+                                    "feature": "Paid ADs",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 10,
+                                    "feature": "Content Strategy",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 11,
+                                    "feature": "Content Development",
+                                    "subFeatures": [],
+                                    "opted": true
+                                },
+                                {
+                                    "id": 12,
+                                    "feature": "Content Distribution",
+                                    "subFeatures": [],
+                                    "opted": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "social-media",
+            "Seo": {
+                "title": "Social Media Agency Dubai",
+                "description": "Vybinex Digital Solution is a full-service social media marketing agency specializing in creating 'buzz' online for businesses in Dubai. Building brands socially to find loyal followers and build trusted brands."
+            },
+            "title": "Social Media Marketing",
+            "shortTitle": "Social Media",
+            "titleHighlights": [
+                "Marketing"
+            ],
+            "highlights": [
+                {
+                    "id": "social-media",
+                    "title": "What We Do?",
+                    "titleHighlights": [
+                        "We"
+                    ],
+                    "points": [
+                        "Improve Your Overall Social Media Presence",
+                        "Drive Customer Acquisition & Conversion through Social Media",
+                        "Enable Content & Creative Social Media Strategies",
+                        "Facilitate Smooth Social Media Page Set-Up, Management & Promotions"
+                    ]
+                }
+            ],
+            "slug": "social-media",
+            "excerpt": "We promise your brand gets  visibility, credibility and lead generation through social media platforms, forming a strong community",
+            "shortDescription": "We promise to take your brand to the desired audience through the social media handles, forming a strong community of like-minded people. We take charge of your brand’s presence on multiple social media handles. We bring uniformity in each social channel empowering the brand’s identity. We push organic traffic through social media content and give nudges to convert them into customers",
+            "order": 1,
+            "pricingSections": [
+                {
+                    "id": "social-media",
+                    "pricingSectionHeading": "Social Media Marketing",
+                    "pricingSectionHeadingHighlights": [],
+                    "pricingSectionSubHeading": "",
+                    "detailPagePricingTitle": "Our Social Media Marketing Plans",
+                    "detailPagePricingTitleHighlights": [
+                        "Social",
+                        "Media",
+                        "Marketing"
+                    ],
+                    "pricingPacks": [
+                        {
+                            "id": "basic",
+                            "packName": "Basic",
+                            "packDescription": "2 channels",
+                            "packValue": 5000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Marketing Audit & Basic setup",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Social Media Calendar",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Ad Copywriting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Upto 16 posts/month (image posts/reels/stories etc)",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Monthly report/dashboard",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Paid Ads strategy and implementation",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 6,
+                                    "feature": "Unlimited image/video ads based on ROI",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 7,
+                                    "feature": "Live reporting/dashboard",
+                                    "opted": false,
+                                    "subFeatures": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "standard",
+                            "packName": "Standard",
+                            "packDescription": "3 channels",
+                            "packValue": 10000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Marketing Audit & Basic setup",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Social Media Calendar",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Ad Copywriting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Upto 16 posts/month (image posts/reels/stories etc)",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Monthly report/dashboard",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Paid Ads strategy and implementation",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 6,
+                                    "feature": "Unlimited image/video ads based on ROI",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 7,
+                                    "feature": "Live reporting/dashboard",
+                                    "opted": true,
+                                    "subFeatures": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "sem-seo",
+            "Seo": {
+                "title": "SEO, Google Ads Dubai ",
+                "description": "We're a knowledgeable and experienced team of SEO and Google Ads specialists who offer management services designed to get the most out of your Google Ads account and Search Engine Optimisation in Dubai."
+            },
+            "title": "SEO & SEM",
+            "shortTitle": "SEO & SEM",
+            "titleHighlights": [],
+            "highlights": [
+                {
+                    "id": "sem",
+                    "title": "SEM",
+                    "titleHighlights": [
+                        "SEM"
+                    ],
+                    "points": [
+                        "Optimise Website Traffic & Interactions",
+                        "Derive the Best out Of Search & Paid Ads",
+                        "Provide That Edge Over Competition with SEM",
+                        "Improve Overall Brand Awareness"
+                    ]
+                },
+                {
+                    "id": "seo",
+                    "title": "SEO",
+                    "titleHighlights": [
+                        "SEO"
+                    ],
+                    "points": [
+                        "Run Both On-Page & Off-Page SEO",
+                        "Target Niche Users & Promote Brand Image",
+                        "Improve Campaign & Website Performance",
+                        "Help the Brand Optimise For Search"
+                    ]
+                }
+            ],
+            "slug": "search-engine-optimization-marketing",
+            "excerpt": "We ensure every time they search with the right intent, they land at your brand",
+            "shortDescription": "SEM shoots brand awareness sky-high! We ensure whenever a potential customer searches with the right intent it leads them to your website or business page. SEM is used as a strategy in bringing fast visibility to your brand. It helps your brand reach targeted customers based on their region, and communicate easily in different languages.",
+            "order": 2,
+            "pricingSections": [
+                {
+                    "id": "seo",
+                    "detailPagePricingTitle": "Our SEO Plans",
+                    "detailPagePricingTitleHighlights": [
+                        "SEO"
+                    ],
+                    "pricingSectionHeading": "SEO",
+                    "pricingSectionHeadingHighlights": [],
+                    "pricingSectionSubHeading": "",
+                    "pricingPacks": [
+                        {
+                            "id": "basic",
+                            "packName": "Basic",
+                            "packDescription": "",
+                            "packValue": 3000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "20 Keywords",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "On-page and Off-page SEO",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Competitive Analysis",
+                                    "opted": true
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Complete Website Analysis",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Extensive key phrase research",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Quality SEO copywriting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 6,
+                                    "feature": "Advanced Rank development",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 7,
+                                    "feature": "Dedicated Account Manager (Google Certified)",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 8,
+                                    "feature": "24/7 reporting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 9,
+                                    "feature": "Guaranteed page 1positions on Google within 90 days",
+                                    "opted": true,
+                                    "subFeatures": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "standard",
+                            "packName": "Standard",
+                            "packDescription": "",
+                            "packValue": 5000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "40 Keywords",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "On-page and Off-page SEO",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Competitive Analysis",
+                                    "opted": true
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Complete Website Analysis",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Extensive key phrase research",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Quality SEO copywriting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 6,
+                                    "feature": "Intensive Rank development",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 7,
+                                    "feature": "Dedicated Account Manager (Google Certified)",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 8,
+                                    "feature": "24/7 reporting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 9,
+                                    "feature": "Guaranteed page 1positions on Google within 90 days",
+                                    "opted": true,
+                                    "subFeatures": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "sem",
+                    "detailPagePricingTitle": "Our SEM Plans",
+                    "detailPagePricingTitleHighlights": [
+                        "SEM"
+                    ],
+                    "pricingSectionHeading": "SEM",
+                    "pricingSectionHeadingHighlights": [],
+                    "pricingSectionSubHeading": "",
+                    "pricingPacks": [
+                        {
+                            "id": "basic",
+                            "packName": "Basic",
+                            "packDescription": "",
+                            "packValue": 5000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Google Ad Account Setup",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Paid spend supported",
+                                    "opted": true,
+                                    "subFeatures": [
+                                        {
+                                            "id": 0,
+                                            "subFeature": "Upto AED 25,000 per month"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Unlimited ADs",
+                                    "opted": true
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Dedicated resource hours",
+                                    "opted": true,
+                                    "subFeatures": [
+                                        {
+                                            "id": 0,
+                                            "subFeature": "Up to 10 hours a month"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Weekly Reporting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Landing Page Optimization",
+                                    "opted": false,
+                                    "subFeatures": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "standard",
+                            "packName": "Standard",
+                            "packDescription": "",
+                            "packValue": 10000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Google Ad Account Setup",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Paid spend supported",
+                                    "opted": true,
+                                    "subFeatures": [
+                                        {
+                                            "id": 0,
+                                            "subFeature": "Upto AED 50,000 per month"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Unlimited ADS",
+                                    "opted": true
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Dedicated resource hours",
+                                    "opted": true,
+                                    "subFeatures": [
+                                        {
+                                            "id": 0,
+                                            "subFeature": "Up to 10 hours a month"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Daily Reporting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Landing Page Optimization",
+                                    "opted": true,
+                                    "subFeatures": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "web-development",
+            "Seo": {
+                "title": "Website Development Company in Dubai UAE",
+                "description": "Vybinex Digital Solutions have professional website developers for stunning graphics & functional Enhancements. We craft a website that truly represents your brand and voice."
+            },
+            "title": "Web Development",
+            "shortTitle": "Web Development",
+            "titleHighlights": [
+                "Development"
+            ],
+            "highlights": [
+                {
+                    "id": "web-development",
+                    "title": "What We Do?",
+                    "titleHighlights": [
+                        "We"
+                    ],
+                    "points": [
+                        "Provide End To End Web Development For A Brand",
+                        "Curate the Website as per the Brand’s Identity",
+                        "Customise Websites for Brands from Different Industries",
+                        "Develop One-Page & Multi-Page Dynamic Websites"
+                    ]
+                }
+            ],
+            "slug": "web-development",
+            "excerpt": "We develop websites that your customers love to interact with",
+            "shortDescription": "We develop websites that your customers love to interact with. Curating user experiences for your target customer persona. Our services cover the technical back-end as well the creative front-end. Top level representation of your brand is our top level priority",
+            "order": 7,
+            "pricingSections": [
+                {
+                    "id": "web-development",
+                    "detailPagePricingTitle": "Our Web Development Plans",
+                    "detailPagePricingTitleHighlights": [
+                        "Web",
+                        "Development"
+                    ],
+                    "pricingSectionHeading": "Web Development",
+                    "pricingSectionHeadingHighlights": [],
+                    "pricingSectionSubHeading": "",
+                    "pricingPacks": [
+                        {
+                            "id": "basic",
+                            "packName": "Basic",
+                            "packDescription": "",
+                            "packValue": 3500,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Hosting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Up to 5 pages",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Logo Design",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Up to 10 image designs",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Dynamic Contact form",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Up to 2 videos on website",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "CRM Installation & Setup (Hubspot)",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 6,
+                                    "feature": "Entire website text content (Up to 5000 words)",
+                                    "opted": false,
+                                    "subFeatures": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "standard",
+                            "packName": "Standard",
+                            "packDescription": "",
+                            "packValue": 8000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Hosting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Up to 10 pages",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Logo Design",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Up to 10 image designs",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Dynamic Contact form",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Up to 2 videos on website",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "CRM Installation & Setup (Hubspot)",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 6,
+                                    "feature": "Entire website text content (Up to 5000 words)",
+                                    "opted": true,
+                                    "subFeatures": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "influencer-marketing",
+            "Seo": {
+                "title": "Influencer marketing agency Dubai, UAE",
+                "description": "Vybinex Digital Solutions is the UAE’s No.1 influencer agency. We match brands with the best influencers & micro-influencers, helping generate the highest ROI."
+            },
+            "title": "Influencer Marketing",
+            "shortTitle": "Influencer Marketing",
+            "titleHighlights": [
+                "Marketing"
+            ],
+            "highlights": [
+                {
+                    "id": "influencer-marketing",
+                    "title": "What We Do?",
+                    "titleHighlights": [
+                        "We"
+                    ],
+                    "points": [
+                        "Assist With A Pool of Top Influencers",
+                        "Shortlist & Connect with Skilled Influencers that reflect the Brand",
+                        "Strategise & Curate Brand Specific Influencer Marketing Tactics",
+                        "Assist the Influencer in Executing the Tasks with Content Script, Videos & much more"
+                    ]
+                }
+            ],
+            "slug": "influencer-marketing",
+            "excerpt": "We bring you creators that connect your brand to the right customers",
+            "shortDescription": "We bring you creators that connect your brand to the right customers. Be it videos, posts, or social media takeovers we have reputed influencers that are suitable to your target audience. They come with great reach & amazing conversions",
+            "order": 6,
+            "pricingSections": [
+                {
+                    "id": "influencer-marketing",
+                    "detailPagePricingTitle": "Our Influencer Marketing Plans",
+                    "detailPagePricingTitleHighlights": [
+                        "Influencer",
+                        "Marketing"
+                    ],
+                    "pricingSectionHeading": "Influencer Marketing",
+                    "pricingSectionHeadingHighlights": [],
+                    "pricingSectionSubHeading": "",
+                    "pricingPacks": [
+                        {
+                            "id": "basic",
+                            "packName": "Basic",
+                            "packDescription": "",
+                            "packValue": 3000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Upto 2 Influencers",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Campaign Strategy",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Campaign Execution",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Reporting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "standard",
+                            "packName": "Standard",
+                            "packDescription": "",
+                            "packValue": 10000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Upto 3 Influencers",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Campaign Strategy",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Campaign Execution",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Reporting",
+                                    "opted": true,
+                                    "subFeatures": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "photo",
+            "Seo": {
+                "title": "Commercial Photography Services in Dubai",
+                "description": "Vybinex Digital Solutions offers Commercial Photography services in Dubai with 360-degree coverage of any offline or online event. We have a super-skilled team and advanced tools."
+            },
+            "title": "Commercial Photography",
+            "shortTitle": "Photography",
+            "titleHighlights": [
+                "Photography"
+            ],
+            "highlights": [
+                {
+                    "id": "photo",
+                    "title": "What We Do?",
+                    "titleHighlights": [
+                        "We"
+                    ],
+                    "points": [
+                        "Customise It As Per The Event & Customer",
+                        "Provide Hassle-Free Service from Booking to D-Day",
+                        "Offer 360% Coverage to any Offline or Online Event ",
+                        "Provide a Super Skilled Team with Advanced Tools"
+                    ]
+                }
+            ],
+            "slug": "commercial-photography",
+            "excerpt": "Let’s photos show your quality product or services as per your customer’s NDP",
+            "shortDescription": "We capture all the perfect moments & make them special for a lifetime. We are 100% more organised, professional & believe in personalising these precious moments. You can enjoy your day while we do all the hard-work",
+            "order": 4,
+            "pricingSections": [
+                {
+                    "id": "photo",
+                    "detailPagePricingTitle": "Our Commercial Photography Plans",
+                    "detailPagePricingTitleHighlights": [
+                        "Commercial",
+                        "Photograpy"
+                    ],
+                    "pricingSectionHeading": "Commercial Photography",
+                    "pricingSectionHeadingHighlights": [],
+                    "pricingSectionSubHeading": "",
+                    "pricingPacks": [
+                        {
+                            "id": "basic",
+                            "packName": "Basic",
+                            "packDescription": "",
+                            "packValue": 3000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Props & Backgrounds",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Lighting & Setup",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Photo Editing & Retouching",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Studio",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Models",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Makeup Artists",
+                                    "opted": false,
+                                    "subFeatures": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "standard",
+                            "packName": "Standard",
+                            "packDescription": "",
+                            "packValue": 10000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Props & Backgrounds",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Lighting & Setup",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Photo Editing & Retouching",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Studio",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Models",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Makeup Artists",
+                                    "opted": true,
+                                    "subFeatures": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "video",
+            "Seo": {
+                "title": "Commercial Videography Company Dubai",
+                "description": "Vybinex Digital Solutions offers creative video solutions from corporate communications to walkthroughs, brand stories, and ad films through compelling storytelling."
+            },
+            "title": "Commercial Videography",
+            "shortTitle": "Videography",
+            "titleHighlights": [],
+            "highlights": [
+                {
+                    "id": "video",
+                    "title": "What We Do?",
+                    "titleHighlights": [
+                        "We"
+                    ],
+                    "points": [
+                        "Customise It As Per The Event & Customer",
+                        "Provide Hassle-Free Service from Booking to D-Day",
+                        "Offer 360% Coverage to any Offline or Online Event ",
+                        "Provide a Super Skilled Team with Advanced Tools"
+                    ]
+                }
+            ],
+            "slug": "commercial-videography",
+            "excerpt": "Tell a story through innovative and creative videos to reach your potential clients",
+            "shortDescription": "We capture all the perfect moments & make them special for a lifetime. We are 100% more organised, professional & believe in personalising these precious moments. You can enjoy your day while we do all the hard-work",
+            "order": 5,
+            "pricingSections": [
+                {
+                    "id": "video",
+                    "detailPagePricingTitle": "Our Commercial Videography Plans",
+                    "detailPagePricingTitleHighlights": [
+                        "Commercial",
+                        "Videography"
+                    ],
+                    "pricingSectionHeading": "Commercial Videography",
+                    "pricingSectionHeadingHighlights": [],
+                    "pricingSectionSubHeading": "",
+                    "pricingPacks": [
+                        {
+                            "id": "basic",
+                            "packName": "Basic",
+                            "packDescription": "",
+                            "packValue": 5000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "4k Camera",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Props & Backgrounds",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Lighting & Setup",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Professional Editing",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Models",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Makeup Artist",
+                                    "opted": false,
+                                    "subFeatures": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "standard",
+                            "packName": "Standard",
+                            "packDescription": "",
+                            "packValue": 15000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "8k Camera",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Props & Backgrounds",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Lighting & Setup",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Professional Editing & VFX",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Models",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Makeup Artist",
+                                    "opted": true,
+                                    "subFeatures": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "branding",
+            "Seo": {
+                "title": "Branding agency in Dubai",
+                "description": "Vybinex Digital Solutions develops brand content that speaks to your customers and increases your brand visibility. We will work with you to ensure your branding shines through your products & services."
+            },
+            "title": "Brand Content",
+            "shortTitle": "Brand Content",
+            "titleHighlights": [
+                "Brand"
+            ],
+            "highlights": [],
+            "slug": "branding",
+            "excerpt": "We develop brand content that speaks to your customers and increase your brand visibility.",
+            "shortDescription": "",
+            "order": 8,
+            "pricingSections": [
+                {
+                    "id": "branding",
+                    "detailPagePricingTitle": "Our Brand Content Plans",
+                    "detailPagePricingTitleHighlights": [
+                        "Brand",
+                        "Content"
+                    ],
+                    "pricingSectionHeading": "Brand Content",
+                    "pricingSectionHeadingHighlights": [],
+                    "pricingSectionSubHeading": "",
+                    "pricingPacks": [
+                        {
+                            "id": "basic",
+                            "packName": "Basic",
+                            "packDescription": "",
+                            "packValue": 4000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Logo",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Business Card",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Email Signature",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Letterhead",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Envelope",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Cup Branding",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 6,
+                                    "feature": "Brand Guide",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 7,
+                                    "feature": "Brochure Design",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 8,
+                                    "feature": "T-Shirt Design",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 9,
+                                    "feature": "Calendar Design",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 10,
+                                    "feature": "3D sign board",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 11,
+                                    "feature": "Roll up",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 12,
+                                    "feature": "Flyer",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 13,
+                                    "feature": "Company Profile",
+                                    "opted": false,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 14,
+                                    "feature": "Logo Animation",
+                                    "opted": false,
+                                    "subFeatures": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "standard",
+                            "packName": "Standard",
+                            "packDescription": "",
+                            "packValue": 8000,
+                            "features": [
+                                {
+                                    "id": 0,
+                                    "feature": "Logo",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 1,
+                                    "feature": "Business Card",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 2,
+                                    "feature": "Email Signature",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 3,
+                                    "feature": "Letterhead",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 4,
+                                    "feature": "Envelope",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 5,
+                                    "feature": "Cup Branding",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 6,
+                                    "feature": "Brand Guide",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 7,
+                                    "feature": "Brochure Design",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 8,
+                                    "feature": "T-Shirt Design",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 9,
+                                    "feature": "Calendar Design",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 10,
+                                    "feature": "3D sign board",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 11,
+                                    "feature": "Roll up",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 12,
+                                    "feature": "Flyer",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 13,
+                                    "feature": "Company Profile",
+                                    "opted": true,
+                                    "subFeatures": []
+                                },
+                                {
+                                    "id": 14,
+                                    "feature": "Logo Animation",
+                                    "opted": true,
+                                    "subFeatures": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

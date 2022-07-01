@@ -1,0 +1,74 @@
+{
+    "testimonials": [
+        {
+            "id": "fidato",
+            "order": 0,
+            "testimony": "Vybinex has a very creative and skillful team that constantly strives towards the complete satisfaction of our goals. The social media marketing and paid ads services were executed very smoothly and it keeps getting better every time.",
+            "name": "Shabnas CP",
+            "designation": "Finance Manager, FIDATO"
+        },
+        {
+            "id": "quickstep",
+            "order": 1,
+            "testimony": "I would like to thank Mr. Shammas and the team for providing such great services. We were looking for a team to bring more engagement to our social platforms. Vybinex bought around 200% more engagement on our socials compared to last month. Vybinex managed to meet my budget with a great quality outcome. I look forward to a long-term relationship with Vybinex.",
+            "name": "Mashhood Muhammed",
+            "designation": "Managing Partner, QUICKSTEP"
+        },
+        {
+            "id": "wrapx",
+            "order": 2,
+            "testimony": "We are very happy with the website design services offered by Vybinex and they are also fully dedicated to satisfying our needs. Alongside, we also appreciate their creative approach towards designing a powerful website.",
+            "name": "Ramshad",
+            "designation": "Managing Partner, Wrapx"
+        },
+        {
+            "id": "flycupz",
+            "order": 3,
+            "testimony": "Team Vybinex was a pleasure to work with. They offered great additional creative input and delivered great images that were a successful part of our campaign. I look forward to working with them again.",
+            "name": "Nazrul",
+            "designation": "Founder, Flycupz"
+        },
+        {
+            "id": "arabian-medical-center",
+            "order": 4,
+            "testimony": "We were looking for a team to bring more engagement to our social platforms. Vybinex bought around 150% more engagement on our socials compared to last month. Vybinex managed to meet my budget with a great quality outcome.",
+            "name": "Dr. Ashok Jyothiswara",
+            "designation": "Arabian Medical Center, Orthodontist"
+        },
+        {
+            "id": "global-axis",
+            "order": 5,
+            "testimony": "We love to recommend Vybinex for paid advertising. We have been working for the last 3months. They completely turned our paid advertising expectation by the number of leads they provided. Their extreme knowledge in paid advertising is unmatched. We are happy to work with Vybinex for many more years.",
+            "name": "Wajahath",
+            "designation": "The Global Axis, Managing Partner"
+        },
+        {
+            "id": "bbl",
+            "order": 6,
+            "testimony": "Vybinex has a very creative and skillful team that constantly strives towards the complete satisfaction of our goals. The social media marketing and paid ads services were executed very smoothly and it keeps getting better every time.",
+            "name": "Amir Ashraf VK",
+            "designation": "Best Beauty Life, Operations Manager"
+        },
+        {
+            "id": "mind-advertising",
+            "order": 7,
+            "testimony": "Vybinex has a very creative and focused team who have been thorough professionals in the work done with them. To get a brand connect with the audience, their approach is innovative which has shown in our collaboration with them for past 1-2 years.",
+            "name": "Jamshid",
+            "designation": "Mind Advertising, Founder"
+        },
+        {
+            "id": "midtown",
+            "order": 8,
+            "testimony": "Vybinex has been the best social media team we have worked with. We witnessed 200% increase on reach in social comparing to last 6 months which shows how willing they to ensure the results we were looking for.",
+            "name": "Sumayya",
+            "designation": "Midtown Buzz, Founder"
+        },
+        {
+            "id": "flower-cart",
+            "order": 9,
+            "testimony": "Vybinex has gone that extra mile to ensure we reach the right customers with their creative ouptul in social media and photography. They know how to connect the brand with the audience with their compelling storytelling.",
+            "name": "Adil",
+            "designation": "Flower Cart, Managing Partner"
+        }
+    ]
+}

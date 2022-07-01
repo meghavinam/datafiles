@@ -1,0 +1,46 @@
+{
+    "links": [
+        {
+            "id": "facebook",
+            "url": "https://www.facebook.com/vybinexdgs",
+            "order": 0,
+            "float": true
+        },
+        {
+            "id": "linkedin",
+            "url": "https://www.linkedin.com/company/vybinex/",
+            "order": 1,
+            "float": false
+        },
+        {
+            "id": "instagram",
+            "url": "https://www.instagram.com/vybinex/",
+            "order": 2,
+            "float": true
+        },
+        {
+            "id": "whatsapp",
+            "url": "https://wa.me/+971563142421",
+            "order": 3,
+            "float": true
+        },
+        {
+            "id": "quora",
+            "url": "https://www.quora.com/profile/VYBINEX-DIGITAL-SOLUTIONS?q=vybinex",
+            "order": 4,
+            "float": false
+        },
+        {
+            "id": "twitter",
+            "url": "https://twitter.com/vybinex",
+            "order": 5,
+            "float": false
+        },
+        {
+            "id": "youtube",
+            "url": "https://www.youtube.com/channel/UCXv3zhBxfm_CegEqdw9vZyw",
+            "order": 6,
+            "float": false
+        }
+    ]
+}

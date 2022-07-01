@@ -1,0 +1,79 @@
+{
+    "clients": [
+        {
+            "id": "abeers",
+            "label": "Abeer's Signature",
+            "order": 3
+        },
+        {
+            "id": "arabian-medical-center",
+            "label": "Arabian Medical Center",
+            "order": 5
+        },
+        {
+            "id": "bbl",
+            "label": "Best Beauty Life",
+            "order": 6
+        },
+        {
+            "id": "cosmos",
+            "label": "COSMOS Sports",
+            "order": 2
+        },
+        {
+            "id": "doc-barnet",
+            "label": "DOC Barnet",
+            "order": 8
+        },
+        {
+            "id": "fidato",
+            "label": "FIDATO",
+            "order": 9
+        },
+        {
+            "id": "flycupz",
+            "label": "FLYCUPZ",
+            "order": 13
+        },
+        {
+            "id": "global-axis",
+            "label": "The Global Axis",
+            "order": 12
+        },
+        {
+            "id": "hubba",
+            "label": "HUBBA",
+            "order": 10
+        },
+        {
+            "id": "lulu",
+            "label": "Lulu Exchange",
+            "order": 0
+        },
+        {
+            "id": "mender",
+            "label": "MENDER Sea Shipping",
+            "order": 7
+        },
+        {
+            "id": "powerboom",
+            "label": "Powerboom",
+            "order": 1
+        },
+        {
+            "id": "sal",
+            "label": "SAL Events",
+            "order": 11
+        },
+        {
+            "id": "walz",
+            "label": "The Walz Travels",
+            "order": 14
+        },
+        {
+            "id": "masdar",
+            "label": "Masdar City",
+            "order": 4
+        }
+    ]
+}
