@@ -10,6 +10,7 @@ type Params struct {
 	Exclude []string
 }
 
+
 func ByDescription(params Params) (result []Emoji) {
 	for _, emo := range emjis {
 		if shouldExclude(emo, params.Exclude) {
