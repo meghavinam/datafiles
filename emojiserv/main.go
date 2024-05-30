@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/meghavinam/datafiles/emojis/search"
+	"github.com/meghavinam/datafiles/emojiis/search"
 	"log"
 	"net/http"
 )
